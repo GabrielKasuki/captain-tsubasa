@@ -73,7 +73,7 @@ main article {
 main h1 {
     background-image: linear-gradient(to right, #2A77EB, transparent);
     color: white;
-    text-indent: 30px;
+    text-indent: 10px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 1.8em;
 }
