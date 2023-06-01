@@ -58,6 +58,7 @@ main {
     box-shadow: 0.5px 0.5px 0.5px 0.5px black;
     margin: auto;
     margin-bottom: 20px;
+    text-indent: 10px;
 }
 
 main img {
@@ -82,6 +83,7 @@ main img {
 
 main p {
     text-align: justify;
+    text-indent: 30px;
     padding: 10px 0px 10px 0px;
 }
 
